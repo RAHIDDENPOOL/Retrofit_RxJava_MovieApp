@@ -1,4 +1,4 @@
-package com.example.retrofitrxjavamovieapp.SingleMovie
+package com.example.retrofitrxjavamovieapp.singleMovie
 
 import android.os.Bundle
 import android.os.PersistableBundle
