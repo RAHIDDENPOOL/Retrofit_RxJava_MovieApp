@@ -1,4 +1,4 @@
-package com.example.retrofitrxjavamovieapp.Data.repository
+package com.example.retrofitrxjavamovieapp.data.repository
 
 enum class Status {
     RUNNING,

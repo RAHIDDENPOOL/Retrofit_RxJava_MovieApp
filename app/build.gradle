@@ -33,7 +33,7 @@ dependencies {
 
 
     //ViewModel and LiveData
-    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1'
 
     //Recyclerview
     implementation 'androidx.recyclerview:recyclerview:1.3.0-rc01'
